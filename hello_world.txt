@@ -1,2 +1,3 @@
 Adding some text as part of the assignment!
 testing the message editor.
+message editor test, number 2.
